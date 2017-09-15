@@ -2,7 +2,7 @@
 
 This is a mini project that shows how to serve a static project (build w/ AngularJs ) using Node.js + express
 
-# Installation
+## Installation
 
 To install dependencies you must do first of all
 
@@ -10,7 +10,7 @@ To install dependencies you must do first of all
 npm install
 ```
 
-# Launch
+## Launch
 
 To launch the server you can do
 
